@@ -19,7 +19,7 @@ The profile uses a lightweight composition:
 - Centered typing-svg intro lines for the first impression.
 - A short centered interest statement and compact identity tags.
 - GitHub and Bilibili badges for confirmed profile links.
-- A right-aligned `assets/lin.png` image beside a terminal-style Markdown block.
+- A two-column HTML table pairs a polished profile summary with a centered `assets/lin.png` image, avoiding Markdown code-block chrome and floating-image misalignment.
 - A dedicated snake section using the existing light and dark contribution snake SVG outputs.
 
 ## Verification

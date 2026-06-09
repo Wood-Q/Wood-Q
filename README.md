@@ -24,21 +24,29 @@
 
 <br />
 
-<img align="right" src="./assets/lin.png" width="210" alt="Lin" />
-
-```bash
-$ lately
-Deepening my study of multimodal systems and infrastructure.
-
-$ current_focus
-- Building fun AI-enhanced tools.
-- Sharing AI full-stack tutorials.
-
-$ stack
-Python / Go / Node.js / Vibe
-```
-
-<br clear="right" />
+<table>
+  <tr>
+    <td width="68%" valign="middle">
+      <h3>Recently</h3>
+      <p>Deepening my study of multimodal systems and infrastructure.</p>
+      <h3>Current Focus</h3>
+      <ul>
+        <li>Building fun AI-enhanced tools.</li>
+        <li>Sharing AI full-stack tutorials.</li>
+      </ul>
+      <h3>Stack</h3>
+      <p>
+        <code>Python</code>
+        <code>Go</code>
+        <code>Node.js</code>
+        <code>Vibe</code>
+      </p>
+    </td>
+    <td width="32%" align="center" valign="middle">
+      <img src="./assets/lin.png" width="220" alt="Lin" />
+    </td>
+  </tr>
+</table>
 
 ## Contribution Snake
 
