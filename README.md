@@ -1,20 +1,49 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=800&size=20&pause=1000&color=6B51F7&background=BC84FF00&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Wood-Q." alt="Hi, I'm Mokio." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=800&size=18&pause=1000&color=6B51F7&background=BC84FF00&center=true&vCenter=true&width=720&lines=Full-stack+builder%2C+AI-native+workflow+explorer" alt="Full-stack builder, AI-native workflow explorer" />
+</div>
 
-<!--
-**Wood-Q/Wood-Q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Interested in practical products, developer experience, and turning ideas into usable tools.</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <code>Full Stack</code>
+  <code>AI Native</code>
+  <code>Always Building</code>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/Wood-Q">
+    <img src="https://img.shields.io/badge/GitHub-Wood--Q-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Wood-Q" />
+  </a>
+  <a href="https://space.bilibili.com/661890559?spm_id_from=333.1007.0.0">
+    <img src="https://img.shields.io/badge/Bilibili-Wood--Q-00aeec?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili Wood-Q" />
+  </a>
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wood-Q)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wood-Q&layout=compact&theme=tokyonight)
-![亮色](https://raw.githubusercontent.com/Wood-Q/Wood-Q/output/github-contribution-grid-snake.svg)
+<br />
+
+<img align="right" src="./assets/lin.png" width="210" alt="Lin" />
+
+```bash
+$ lately
+Deepening my study of multimodal systems and infrastructure.
+
+$ current_focus
+- Building fun AI-enhanced tools.
+- Sharing AI full-stack tutorials.
+
+$ stack
+Python / Go / Node.js / Vibe
+```
+
+<br clear="right" />
+
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wood-Q/Wood-Q/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wood-Q/Wood-Q/output/github-contribution-grid-snake.svg" />
+  <img alt="Wood-Q contribution snake" src="https://raw.githubusercontent.com/Wood-Q/Wood-Q/output/github-contribution-grid-snake.svg" />
+</picture>
